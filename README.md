@@ -3,7 +3,7 @@
 Predicting reported road collision severity in Great Britain using 2024 road safety data, machine learning and Explainable AI (XAI), with data preprocessing, class-imbalance handling, model comparison, hyperparameter optimisation, and SHAP-based interpretation.
 
 ## Dataset
-The project uses three 2024 road safety datasets published by the UK Department for Transport:
+The project uses three 2024 road safety datasets published by GOV.UK from Department for Transport:
 - Collision dataset
 - Vehicle dataset
 - Casualty dataset
